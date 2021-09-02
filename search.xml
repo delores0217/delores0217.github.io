@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/02/17/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>新的人又到了所以想要拥有新的文字</title>
     <url>/2021/08/24/%E6%96%B0%E7%9A%84%E4%BA%BA%E5%8F%88%E5%88%B0%E4%BA%86%E6%89%80%E4%BB%A5%E6%83%B3%E8%A6%81%E6%8B%A5%E6%9C%89%E6%96%B0%E7%9A%84%E6%96%87%E5%AD%97/</url>
-    <content><![CDATA[<p>新的人又到了所以想要拥有新的文字</p>
-<p>开学了，21 级。</p>
-<p>之前给老妈说 555 我没当上学长组老妈说没当上好啊不要去当，对方当时告诉我面对新生的困境就是想要把自己经验的传递下去又不想要因为自己干扰了别人的选择。在经历了一个娇纵跋扈的暑假之后跟好友冷战了好长时间，最后大吵一架解开误会对方说：你还真是被惯的。<em>是的有些东西被前面的人扛下来不经历一次就永远体会不到，我不知道人类的进步究竟要怎样踩着巨人的肩膀向前，但是生活中的捷径，似乎总在最后关头变成了你的绊脚石。</em></p>
+    <content><![CDATA[<p>开学了，21 级。</p>
+<p>之前给老妈说 555 我没当上学长组老妈说没当上好啊不要去当，对方当时告诉我面对新生的困境就是想要把自己经验的传递下去又不想要因为自己干扰了别人的选择。在经历了一个娇纵跋扈的暑假之后跟好友冷战了好长时间，最后大吵一架解开误会对方说：你还真是被惯的。</p>
+<div class="note default no-icon"><p><em>是的有些东西被前面的人扛下来不经历一次就永远体会不到，我不知道人类的进步究竟要怎样踩着巨人的肩膀向前，但是生活中的捷径，似乎总在最后关头变成了你的绊脚石。</em></p>
+</div>
+
 <span id="more"></span>
 
 <p>挺惆怅的。</p>
@@ -97,15 +117,14 @@
   <entry>
     <title>只有这一点夏天</title>
     <url>/2020/07/31/%E5%8F%AA%E6%9C%89%E8%BF%99%E4%B8%80%E7%82%B9%E5%A4%8F%E5%A4%A9/</url>
-    <content><![CDATA[<blockquote>
+    <content><![CDATA[<blockquote class="blockquote-center">
 <p>谨以此篇献给让故事被创造的一切</p>
+
 </blockquote>
-<p>山风</p>
+
 <p>想要抓住的那些裹挟着我，想要抓住的那些裹挟着我们。渴望的火焰燃烧得太剧烈，因而灼伤了身体；激情被节律性唤起，又随时间渐息。为了把世界向那个它正在前进的反方向推进些许，有些人站立在巨型钢轮即将压下的位置，捧着那颗满目疮痍的心。</p>
 <p><em>游荡的魂灵，脚下的路就是你的家吗？</em></p>
 <p><em>我不想听到一个肯定的答案，因为那样，悲剧的色彩就有些太黯淡了。</em></p>
-<span id="more"></span>
-
 <h2 id="この夏の物语は，终わらない"><a href="#この夏の物语は，终わらない" class="headerlink" title="[この夏の物语は，终わらない]"></a><strong>[この夏の物语は，终わらない]</strong></h2><p>这个夏天全部被扰乱了。</p>
 <p>本应该挤满人流、车流乃至喇叭声与说笑声的柏油马路，只剩下了烈日的灼热；本应该飞舞毕业帽装满青春的校园，只剩下了空荡的冷清；本应该牵起手相互依偎的爱恋，只剩下了幻想的甜蜜；本应该填满好奇心、用知识构架起的概念世界，只剩下了茫然的眼睛……</p>
 <p>它空空的。</p>
@@ -127,7 +146,7 @@
 <p>没有讲完那段路程：车轮滑过柏油路面，看着“蓝田水果”的刺目灯牌本想停车的我，却只是拍下了一张因风的速度微微模糊的照片。</p>
 <p>打开空间，编辑说说，难以打下的文字：<em>missing the summer…</em></p>
 <p><em>夏の终わりには</em></p>
-<p><em>ただ贵方に会いたくなるの</em>​</p>
+<p><em>ただ贵方に会いたくなるの</em></p>
 <p><strong>思念的是季节还是人呢</strong></p>
 <h2 id="夏の祈り-夏の祈りは"><a href="#夏の祈り-夏の祈りは" class="headerlink" title="[夏の祈り　夏の祈りは]"></a><strong>[夏の祈り　夏の祈りは]</strong></h2><p>其实我更想描摹的那些，却无论如何也描摹不出。我知道自己可以千方百计地逼近场景与场景之中那些细密的感受，却无能为力将其顺理成章地连贯起来。突然想到高三时很爱听的电台，讲述上世纪八十年代文艺青年们普普通通简单而又不简单的生活。某一期，讲述者提到了记忆涌现时迷离的交错：在灿烂阳光下骑着二八自行车笑得比阳光还灿烂的他们，携带着青春奔向被汗水浸湿的远方。而这段旅行的终点，却是自己穿着军绿色棉衣在老师家中吃热腾腾羊肉火锅，窗外的雪累积了好深。说这样一段废话，不是在推卸复刻不得的责任，而是故事推进过程中我本人也宛若空间一般被时间扭曲了。我只能采撷一般从庞大的梦幻中捡出二三小点，还取舍不了同等重要的应当丢弃掉哪些，一边埋怨空余太少让我无法完成最终的叙事，一边暗喜藏匿在这个扰乱的夏天中我所珍视的一切都无法被一个随随便便的阅读者所窃走了。</p>
 <p>征稿推文上是这样描述的：一块情感的归休地。手指滑过的时候，我忍不住滞留了刹那——一定要完成的，这篇文章，算是给这一段时光打下浅浅的逗号。我不愿去用世俗的概念来界定我们之间的关系，且不容置喙地认为，那些在不恰当的时刻产生的溢出边际的想法实在是一种亵渎。因为那个一向难以在陌生的地方怅惘地露出怀念表情的自己，却在这个夏天触碰到了一种暧昧微妙的安全感与归属感，所以无论如何要不遗余力把它们好好保护起来。突然想起来的，我们都曾含糊其辞地聊到过家，尽管怀抱着深深的愧疚感，却仍然义无反顾地走向了那个荒凉未知的僻静处。偶然瞄到他手机上的日期，那个置顶群聊已经近一个月不再说过话，人生一路的家人，与人生一路的爱人，究竟哪个更难得呢？</p>
