@@ -1245,7 +1245,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Microsoft Yahei, Times New Roman, KaiTi, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: STZhongsong, Times New Roman, KaiTi, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   margin: 0;
@@ -3019,12 +3019,12 @@ code {
   scrollbar-width: thin;
 }
 .table-container::-webkit-scrollbar {
-  width: 0.5em;
-  height: 0.5em;
+  width: 0.3em;
+  height: 0.3em;
 }
 .table-container::-webkit-scrollbar-thumb {
-  border-radius: 4px;
-  background: #00af91;
+  border-radius: 2px;
+  background: rgba(247,139,93,0.6);
 }
 .table-container::-webkit-scrollbar-track {
   background: none;
