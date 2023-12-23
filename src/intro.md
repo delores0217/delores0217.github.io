@@ -1,6 +1,5 @@
 ---
 icon: circle-info
-cover: /assets/images/moondog.jpg
 ---
 
 # 没有翅膀的多洛雷斯

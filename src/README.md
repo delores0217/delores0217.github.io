@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: HomePage
-heroImage: /moon2.svg
-bgImage: /assets/images/bck_door.jpg
+heroImage: false
+bgImage: /assets/images/moondog.jpg
 heroText: 多洛雷斯的城堡
 heroFullScreen: true
 tagline: 我要频繁地被污染，与他人交流，还要经常失败，才能变得健康。
