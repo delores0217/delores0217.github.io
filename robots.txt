@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://delores0217.github.io/delores0217.github.io/sitemap.xml
+Sitemap: https://delores0217.github.io/sitemap.xml
