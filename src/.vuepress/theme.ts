@@ -27,7 +27,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "不说。",
+  footer: "明天又是新的一天。",
 
   displayFooter: true,
 
@@ -48,6 +48,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": ["0217"],
+      "/year-to-end/2021.html": ["2436"],
     },
   },
 
