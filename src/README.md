@@ -15,7 +15,7 @@ projects:
     link: https://univeron.org/
 
   - icon: link
-    name: Where I am Writing
+    name: 写字的地方
     desc: 思考、阅读、输出
     link: https://delores0217.top
 
