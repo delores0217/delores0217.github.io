@@ -15,9 +15,9 @@ projects:
     link: https://univeron.org/
 
   - icon: link
-    name: 得了梦幻病的狐狸
-    desc: 小狐狸做梦的地方
-    link: https://delores0217.github.io/littlefox
+    name: Where I am Writing
+    desc: 思考、阅读、输出
+    link: https://delores0217.top
 
 
 
