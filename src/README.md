@@ -8,19 +8,6 @@ bgImage: /assets/images/moondog.jpg
 heroText: 多洛雷斯的城堡
 heroFullScreen: true
 tagline: 我要频繁地被污染，与他人交流，还要经常失败，才能变得健康。
-projects:
-  - icon: friend
-    name: Univeron
-    desc: 神经科学的世界
-    link: https://univeron.org/
-
-  - icon: link
-    name: 写字的地方
-    desc: 思考、阅读、输出
-    link: https://delores0217.top
-
-
-
 footer: 人总得爱点什么。
 ---
 
